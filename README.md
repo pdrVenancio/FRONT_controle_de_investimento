@@ -20,7 +20,7 @@ Este é o frontend do sistema de gerenciamento de investimentos, desenvolvido em
 Antes de começar, certifique-se de ter instalado:
 
 - [Node.js](https://nodejs.org/) (versão 16 ou superior)
-- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) (gerenciadores de pacotes)
+- [npm](https://www.npmjs.com/) 
 
 ---
 
