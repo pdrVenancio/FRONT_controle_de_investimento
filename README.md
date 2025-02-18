@@ -44,15 +44,15 @@ Antes de começar, certifique-se de ter instalado:
   ```
 ## Estrutura do Projeto
 
-frontend/<br>
-├── public/<br>          
-├── src/<br>
-│   ├── assets/<br>
-│   ├── components/  <br>   
+frontend<br>
+├── public<br>          
+├── src<br>
+│   ├── assets<br>
+│   ├── components<br>   
 │   │   ├── InvestmentForm.jsx<br>
 │   │   ├── InvestmentList.jsx<br>
 │   │   ├── InvestmentChart.jsx<br>
-│   ├── services/<br>    
+│   ├── services<br>    
 │   │   ├── api.js<br>
 │   ├── App.jsx<br>
 │   ├── App.css<br>  
