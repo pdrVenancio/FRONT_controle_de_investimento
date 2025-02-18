@@ -45,21 +45,21 @@ Antes de começar, certifique-se de ter instalado:
 ## Estrutura do Projeto
 
 frontend<br>
-├── public<br>          
+├── public<br>
 ├── src<br>
 │   ├── assets<br>
-│   ├── components<br>   
+│   ├── components<br>
 │   │   ├── InvestmentForm.jsx<br>
 │   │   ├── InvestmentList.jsx<br>
-│   │   ├── InvestmentChart.jsx<br>
-│   ├── services<br>    
-│   │   ├── api.js<br>
+│   │   └── InvestmentChart.jsx<br>
+│   ├── services<br>
+│   │   └── api.js<br>
 │   ├── App.jsx<br>
-│   ├── App.css<br>  
-│   ├── main.jsx<br>      
-│   ├── index.css<br>                   
-├── package.json<br>    
-├── vite.config.js<br>    
+│   ├── App.css<br>
+│   ├── main.jsx<br>
+│   └── index.css<br>
+├── package.json<br>
+├── vite.config.js<br>
 └── README.md<br>
 
 ## Contato
