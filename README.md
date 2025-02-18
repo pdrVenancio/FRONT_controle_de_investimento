@@ -30,7 +30,7 @@ Antes de começar, certifique-se de ter instalado:
 
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-  ``
+
 
 2. **Instale as dependências:**:
 
